@@ -24,7 +24,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 965M",
@@ -49,7 +55,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro K4100M",
@@ -74,7 +86,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 530",
@@ -99,7 +117,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P500",
@@ -124,7 +148,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro M2200",
@@ -149,7 +179,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P2000 Max-Q",
@@ -174,7 +210,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro WX 4130",
@@ -199,7 +241,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GT 735M",
@@ -224,7 +272,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro K2000M",
@@ -249,7 +303,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 1050 Ti  ",
@@ -274,7 +334,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce MX110",
@@ -299,7 +365,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R9 M485X",
@@ -324,7 +396,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 5300M",
@@ -349,7 +427,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R9 M390",
@@ -374,7 +458,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P3000",
@@ -399,7 +489,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 850M",
@@ -424,7 +520,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P4000 Max-Q",
@@ -449,7 +551,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 1060  ",
@@ -474,7 +582,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 930M",
@@ -499,7 +613,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 1080  ",
@@ -524,7 +644,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 860M",
@@ -549,7 +675,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro Vega 20",
@@ -574,7 +706,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 940MX",
@@ -599,7 +737,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro RTX 4000  ",
@@ -624,7 +768,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro WX 2100",
@@ -649,7 +799,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX Vega 5",
@@ -674,7 +830,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD FirePro M4000",
@@ -699,7 +861,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro M520",
@@ -724,7 +892,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P4200",
@@ -749,7 +923,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P3200",
@@ -774,7 +954,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 570  ",
@@ -799,7 +985,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 550  ",
@@ -824,7 +1016,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 845M",
@@ -849,7 +1047,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro Vega 16",
@@ -874,7 +1078,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics P530",
@@ -899,7 +1109,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 1070  ",
@@ -924,7 +1140,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R7 M460",
@@ -949,7 +1171,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GT 750M",
@@ -974,7 +1202,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R9 M265X",
@@ -999,7 +1233,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro 555X",
@@ -1024,7 +1264,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro 450",
@@ -1049,7 +1295,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX Vega 9",
@@ -1074,7 +1326,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 980  ",
@@ -1099,7 +1357,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 945M",
@@ -1124,7 +1388,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro RTX 3000  ",
@@ -1149,7 +1419,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R9 M375",
@@ -1174,7 +1450,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon 520",
@@ -1199,7 +1481,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX Vega 7",
@@ -1224,7 +1512,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 6000",
@@ -1249,7 +1543,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro K3000M",
@@ -1274,7 +1574,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P5000",
@@ -1299,7 +1605,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro 555",
@@ -1324,7 +1636,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 1660 Ti Mobile",
@@ -1349,7 +1667,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro M620",
@@ -1374,7 +1698,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GT 720M",
@@ -1399,7 +1729,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 5600",
@@ -1424,7 +1760,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel UHD Graphics 620",
@@ -1449,7 +1791,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel UHD Graphics 630",
@@ -1474,7 +1822,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P5200",
@@ -1499,7 +1853,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro K3100M",
@@ -1524,7 +1884,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce MX230",
@@ -1549,7 +1915,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 1650 Ti Mobile",
@@ -1574,7 +1946,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GT 730M",
@@ -1599,7 +1977,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 630",
@@ -1624,7 +2008,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD FirePro W7170M",
@@ -1649,7 +2039,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P2000",
@@ -1674,7 +2070,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GT 740M",
@@ -1699,7 +2101,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon 540X",
@@ -1724,7 +2132,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 1070 Max-Q",
@@ -1749,7 +2163,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 840M",
@@ -1774,7 +2194,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 5301",
@@ -1799,7 +2225,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro RTX 4000 Max-Q",
@@ -1824,7 +2256,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 940M",
@@ -1849,7 +2287,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 870M",
@@ -1874,7 +2318,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro K610M",
@@ -1899,7 +2349,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 470  ",
@@ -1924,7 +2380,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro K2100M",
@@ -1949,7 +2411,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 825M",
@@ -1974,7 +2442,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 1650 Ti Max-Q",
@@ -1999,7 +2473,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX Vega M GL / 870",
@@ -2024,7 +2504,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro K4000M",
@@ -2049,7 +2535,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 5000",
@@ -2074,7 +2566,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P4000",
@@ -2099,7 +2597,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD FirePro M5100",
@@ -2124,7 +2628,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 5302",
@@ -2149,7 +2659,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 820M",
@@ -2174,7 +2690,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 950M",
@@ -2199,7 +2721,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 515",
@@ -2224,7 +2752,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro 460",
@@ -2249,7 +2783,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX Vega 3",
@@ -2274,7 +2814,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R7 M465",
@@ -2299,7 +2845,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 910M",
@@ -2324,7 +2876,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro 5500M",
@@ -2349,7 +2907,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro M1000M",
@@ -2374,7 +2938,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro WX 3200",
@@ -2399,7 +2969,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce RTX 2060 Mobile",
@@ -2424,7 +3000,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel UHD Graphics P630",
@@ -2449,7 +3031,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro K5000M",
@@ -2474,7 +3062,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P5000 Max-Q",
@@ -2499,7 +3093,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 1060 Max-Q",
@@ -2524,7 +3124,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro T1000 Max-Q",
@@ -2549,7 +3155,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P520",
@@ -2574,7 +3186,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 520",
@@ -2599,7 +3217,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel Iris Pro Graphics P580",
@@ -2624,7 +3248,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro K1100M",
@@ -2649,7 +3279,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 560  ",
@@ -2674,7 +3310,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce MX250",
@@ -2699,7 +3341,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 880M",
@@ -2724,7 +3372,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro M5000M",
@@ -2749,7 +3403,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 5305",
@@ -2774,7 +3434,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro WX 7100",
@@ -2799,7 +3465,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel Iris Pro Graphics 6200",
@@ -2824,7 +3496,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce MX150",
@@ -2849,7 +3527,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 510",
@@ -2874,7 +3558,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 540",
@@ -2899,7 +3589,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 5300",
@@ -2924,7 +3620,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 640",
@@ -2949,7 +3651,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro WX 3100",
@@ -2974,7 +3682,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GTX 960M",
@@ -2999,7 +3713,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce RTX 2070 Super Mobile",
@@ -3024,7 +3744,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro 560X",
@@ -3049,7 +3775,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel UHD Graphics 605",
@@ -3074,7 +3806,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R5 M320",
@@ -3099,7 +3837,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX Vega M GH",
@@ -3124,7 +3868,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R7 M340",
@@ -3149,7 +3899,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2771"
+            "demographics_Occupation": "2771",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Maxwell GPU Surface Book",
@@ -3174,7 +3930,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon 630",
@@ -3199,7 +3961,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R9 M370X",
@@ -3224,7 +3992,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 5500",
@@ -3249,7 +4023,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 4400",
@@ -3274,7 +4054,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce MX350",
@@ -3299,7 +4085,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2633",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD FirePro M4100",
@@ -3324,7 +4116,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon Pro 5300M",
@@ -3349,7 +4147,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Qualcomm Adreno 680",
@@ -3374,7 +4178,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2641",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 5600M",
@@ -3399,7 +4209,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro P600",
@@ -3424,7 +4240,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel Iris Graphics 550",
@@ -3449,7 +4271,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX Vega 11",
@@ -3474,7 +4302,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 5304",
@@ -3499,7 +4333,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2642",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce 920MX",
@@ -3524,7 +4364,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2731",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R5 M315",
@@ -3549,7 +4395,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2732",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel UHD Graphics 617",
@@ -3574,7 +4426,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel Iris Graphics 5100",
@@ -3599,7 +4457,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2735",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2774"
+            "demographics_Occupation": "2774",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon 610",
@@ -3624,7 +4488,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2776"
+            "demographics_Occupation": "2776",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon R5 M420",
@@ -3649,7 +4519,13 @@
             "demographics_Computers": "2809",
             "demographics_Revenue": "2730",
             "demographics_Industry": "2636",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 560X  ",
@@ -3674,7 +4550,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2638",
-            "demographics_Occupation": "2773"
+            "demographics_Occupation": "2773",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Qualcomm Adreno 630",
@@ -3699,7 +4581,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2637",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA GeForce GT 745M",
@@ -3724,7 +4612,13 @@
             "demographics_Computers": "2808",
             "demographics_Revenue": "2734",
             "demographics_Industry": "2639",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2877",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "NVIDIA Quadro M600M",
@@ -3749,7 +4643,13 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2733",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2775"
+            "demographics_Occupation": "2775",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2914",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 4600",
@@ -3774,7 +4674,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2736",
             "demographics_Industry": "2634",
-            "demographics_Occupation": "2772"
+            "demographics_Occupation": "2772",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "Intel HD Graphics 505",
@@ -3799,7 +4705,13 @@
             "demographics_Computers": "2810",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2640",
-            "demographics_Occupation": "2777"
+            "demographics_Occupation": "2777",
+            "demographics_Children": "2879",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         },
         {
             "pgu": "AMD Radeon RX 580X  ",
@@ -3824,6 +4736,12 @@
             "demographics_Computers": "2811",
             "demographics_Revenue": "2737",
             "demographics_Industry": "2635",
-            "demographics_Occupation": "2778"
+            "demographics_Occupation": "2778",
+            "demographics_Children": "2878",
+            "demographics_18_to_24": "2897",
+            "demographics_Day_to_day_purchases": "2916",
+            "demographics_New_Vehicle": "2913",
+            "demographics_12_to_17": "2887",
+            "demographics_Residence": "2907"
         }
     ]
